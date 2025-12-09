@@ -1,0 +1,6 @@
+/gator
+/.cache/
+/pkg/
+/go.work.sum
+/.sqlc/
+/internal/database/
